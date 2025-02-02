@@ -1,7 +1,3 @@
-Here’s the English translation of your document:  
-
----
-
 <div align="center">  
 
 <img src="https://github.com/founchoo/GongYun-for-Android/assets/24630338/3d5c2914-0592-4058-9b54-00e958c62b63" alt="Logo" width="100">  
